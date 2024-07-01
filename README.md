@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mohammad.khedmati2012@gmail.com**
 
-- 📄 Know about my experiences [http://about.mkhedmati.ir/wp-content/uploads/2024/07/Mohammad-Khedmati-Resume-AI.pdf](my resume)
+- 📄 Know about my experiences [my resume](http://about.mkhedmati.ir/wp-content/uploads/2024/07/Mohammad-Khedmati-Resume-AI.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
