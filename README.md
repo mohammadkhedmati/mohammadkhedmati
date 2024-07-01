@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm mohammad khedmati</h1>
 <h3 align="center">an AI specialist with extensive experience in data analysis, NLP, and computer vision, seeks new opportunities to apply his expertise in innovative projects.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadkhedmati" alt="mohammadkhedmati" /></a> </p>
-
 - 🔭 I’m currently working on [ASR in persian language](#)
 
 - 👨‍💻 All of my projects are available at [Git Hub](https://github.com/mohammadkhedmati)
