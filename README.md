@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [My Website](about.mkhedmati.ir)
 
-- 💬 Ask me about **AI,**
+- 💬 Ask me about **AI, Project management **
 
 - 📫 How to reach me **mohammad.khedmati2012@gmail.com**
 
