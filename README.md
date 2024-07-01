@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [ASR in persian language](#)
 
-- 👨‍💻 All of my projects are available at [Git Hub Account](https://github.com/mohammadkhedmati)
+- 👨‍💻 All of my projects are available at [Git Hub](https://github.com/mohammadkhedmati)
 
-- 📝 I regularly write articles on [about.mkhedmati.ir](my website)
+- 📝 I regularly write articles on [My Website](about.mkhedmati.ir)
 
 - 💬 Ask me about **AI,**
 
